@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WhatsApp Light 1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-19 18:00+0000\n"
+"PO-Revision-Date: 2026-03-19 18:00+0000\n"
+"Last-Translator: wpfuse\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Need help? <b>Chat with us</b>"
+msgstr "Precisa de ajuda? <b>Fale conosco</b>"
+
+msgid "WhatsApp number"
+msgstr "Número do WhatsApp"
+
+msgid "Your WhatsApp number with <a href=\"https://countrycode.org\" target=\"_blank\">country code</a> (e.g., 5511999999999)"
+msgstr "Seu número de WhatsApp com <a href=\"https://countrycode.org\" target=\"_blank\">código do país</a> (ex: 5511999999999)"
+
+msgid "Text label"
+msgstr "Rótulo de texto"
+
+msgid "Label shown next to WhatsApp icon. Leave blank to remove."
+msgstr "Texto exibido ao lado do ícone do WhatsApp. Deixe em branco para remover."
+
+msgid "Position"
+msgstr "Posição"
+
+msgid "Right"
+msgstr "Direita"
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Choose the position of the WhatsApp button."
+msgstr "Escolha a posição do botão do WhatsApp."
+
+msgid "Default message"
+msgstr "Mensagem padrão"
+
+msgid "Pre-filled message text (optional)."
+msgstr "Texto da mensagem preenchida (opcional)."
