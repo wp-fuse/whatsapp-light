@@ -4,6 +4,7 @@
  * Description: Lightweight WhatsApp plugin.
  * Author: wpfuse
  * Author URI: https://wpfuse.net
+ * GitHub Plugin URI: https://github.com/wp-fuse/whatsapp-light
  * Version: 1.0.4
  * Text Domain: wa_light
  * Domain Path: /languages
