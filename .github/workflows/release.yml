@@ -9,6 +9,10 @@ on:
       - '.github/workflows/release.yml'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   release:
-    uses: wp-fuse/workflows/.github/workflows/release.yml@v1
+    uses: wp-fuse/workflows/.github/workflows/release.yml@main
+    secrets: inherit
